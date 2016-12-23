@@ -1,0 +1,3 @@
+FOP_HOME=/opt/software/fop-2.1
+
+export PATH=$PATH:$FOP_HOME

@@ -1,0 +1,3 @@
+DOTNET_HOME=/opt/software/dotnet
+
+export PATH=$PATH:$DOTNET_HOME

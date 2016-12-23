@@ -1,0 +1,7 @@
+OCAML_HOME=/opt/software/ocaml-dev-tools/
+
+export PATH=$PATH:$OCAML_HOME/opam:$OCAML_HOME/aspcud-1.9.1-x86_64-linux:$OCAML_HOME/4.02/bin
+export MANPATH=$MANPATH:$OCAML_HOME/4.02/man
+
+#export OPAMEXTERNALSOLVER=$OCAML_HOME/aspcud-1.9.1-x86_64-linux/cudf2lp
+export OPAMEXTERNALSOLVER="cudf_remote_proxy %{input}% %{output}% %{criteria}%"

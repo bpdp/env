@@ -1,0 +1,4 @@
+export CMUCL_HOME=$HOME/software/lisp/cmucl
+
+export PATH=$PATH:$CMUCL_HOME/bin
+export MANPATH=$MANPATH:$CMUCL_HOME/man

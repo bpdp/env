@@ -1,0 +1,3 @@
+VX_HOME=$HOME/software/vert.x/vert.x-milestone
+
+export PATH=$PATH:$VX_HOME/bin

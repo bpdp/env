@@ -1,0 +1,2 @@
+export IGNITE_HOME=/opt/software/ignite
+export PATH=$PATH:$IGNITE_HOME/bin

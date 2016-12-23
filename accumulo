@@ -1,0 +1,3 @@
+ACCUMULO_HOME=/opt/software/accumulo
+
+export PATH=$PATH:$ACCUMULO_HOME/bin

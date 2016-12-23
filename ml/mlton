@@ -1,0 +1,4 @@
+MLTON_HOME=/opt/software/ml-dev-tools/mlton
+
+export PATH=$PATH:$MLTON_HOME/bin
+export MANPATH=$MANPATH:$MLTON_HOME/man

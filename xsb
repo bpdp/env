@@ -1,0 +1,5 @@
+XSB_HOME=/opt/software/xsb
+
+export PATH=$PATH:$XSB_HOME/xsb-3.7./bin:$XSB_HOME/interprolog
+export CLASSPATH=$CLASSPATH:$XSB_HOME/interprolog/interprolog.jar:$XSB_HOME/interprolog/interPrologStudio.jar
+export MANPATH=$MANPATH:$XSB_HOME/xsb-3.7./share/man

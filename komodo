@@ -1,0 +1,3 @@
+KOMODO_HOME=/opt/software/komodo
+
+export PATH=$PATH:$KOMODO_HOME/bin

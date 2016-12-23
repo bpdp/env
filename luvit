@@ -1,0 +1,3 @@
+LUVIT_HOME=$HOME/software/luvit
+
+export PATH=$PATH:$LUVIT_HOME/bin

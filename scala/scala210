@@ -1,0 +1,6 @@
+export SCALA_HOME=/opt/software/scala-dev-tools
+export SBT_HOME=$SCALA_HOME/sbt
+export AKKA_HOME=$SCALA_HOME/akka
+
+export PATH=$PATH:$SCALA_HOME/scala210/bin:$SBT_HOME/bin:$AKKA_HOME/bin
+export MANPATH=$MANPATH:$SCALA_HOME/scala210/man

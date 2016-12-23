@@ -1,0 +1,8 @@
+export RUST_HOME=/opt/software/rust-dev-tools
+
+export PATH=$PATH:$RUST_HOME/rust-nightly/bin:$HOME/.cargo/bin
+export MANPATH=$MANPATH:$RUST_HOME/rust-nightly/share/man
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$RUST_HOME/rust-nightly/lib
+
+export RUST_SRC_PATH=/home/bpdp/master/rust/src/rust/src

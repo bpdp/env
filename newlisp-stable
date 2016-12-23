@@ -1,0 +1,6 @@
+export NEWLISP_HOME=/opt/software/newlisp/stable
+
+export PATH=$PATH:$NEWLISP_HOME/bin
+export MANPATH=$MANPATH:$NEWLISP_HOME/share/man
+
+export NEWLISPDIR=$NEWLISP_HOME/share/newlisp

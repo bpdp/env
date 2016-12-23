@@ -1,0 +1,5 @@
+INSTALL_ROOT=/opt/software/lisp-dev-tools/sbcl
+
+export PATH=$PATH:$INSTALL_ROOT/bin
+export SBCL_HOME=$INSTALL_ROOT/lib/sbcl
+export MANPATH=$MANPATH:$INSTALL_ROOT/share/man

@@ -1,0 +1,4 @@
+export ACTIVATOR_HOME=$HOME/software/activator
+
+export PATH=$PATH:$ACTIVATOR_HOME
+export CLASSPATH=$CLASSPATH:$ACTIVATOR_HOME/*.jar

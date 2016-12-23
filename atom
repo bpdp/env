@@ -1,0 +1,3 @@
+ATOM_HOME=/opt/software/atom
+
+export PATH=$PATH:$ATOM_HOME/bin

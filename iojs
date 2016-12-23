@@ -1,0 +1,4 @@
+IOJS_HOME=/opt/software/iojs
+
+export PATH=$HOME/bin:$PATH:$IOJS_HOME/bin
+export MANPATH=$MANPATH:$IOJS_HOME/man

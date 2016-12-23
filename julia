@@ -1,0 +1,6 @@
+export JULIA_HOME=/opt/software/julia/julia-stable
+
+export PATH=$PATH:$JULIA_HOME/bin
+export MANPATH=$MANPATH:$JULIA_HOME/share/man
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$JULIA_HOME/lib

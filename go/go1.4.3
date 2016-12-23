@@ -1,0 +1,17 @@
+GODEVTOOLS_HOME=/opt/software/go-dev-tools
+
+GO_HOME=$GODEVTOOLS_HOME/go/go1.4.3
+LITEIDE_HOME=$GODEVTOOLS_HOME/liteide
+GOTOOLS=$GODEVTOOLS_HOME/workspace/go14/bin
+GO3RDPARTYTOOLS=$GODEVTOOLS_HOME/go-3rd-party-tools
+
+export GOROOT=$GO_HOME
+export GOOS=linux
+export GOARCH=amd64
+export GOHOSTOS=linux
+export GOHOSTARCH=amd64
+#export GOBIN=$GOROOT/bin
+
+export PATH=$PATH:$GO_HOME/bin:$LITEIDE_HOME/bin:$GOTOOLS:$GO3RDPARTYTOOLS/bin
+
+alias godev='cd $GODEVTOOLS_HOME/workspace/go14'

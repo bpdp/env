@@ -1,0 +1,2 @@
+export APACHE_SPARK_HOME=/opt/software/apache-spark
+export PATH=$PATH:$APACHE_SPARK_HOME/bin:$APACHE_SPARK_HOME/sbin

@@ -1,0 +1,5 @@
+export LOGTALKHOME=/opt/software/prolog-dev-tools/logtalk/share/logtalk
+export LOGTALKUSER=/opt/software/prolog-dev-tools/logtalk/share/logtalk
+export XDG_DATA_HOME=/opt/software/prolog-dev-tools/logtalk/share
+export XDG_DATA_DIR=/opt/software/prolog-dev-tools/logtalk/share
+export PATH=$PATH:/opt/software/prolog-dev-tools/logtalk/bin

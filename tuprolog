@@ -1,0 +1,5 @@
+TUPROLOG_HOME=$HOME/software/2p
+
+export CLASSPATH=$CLASSPATH:$TUPROLOG_HOME/bin/2p.jar:$TUPROLOG_HOME/bin/tuprolog.jar:$TUPROLOG_HOME/lib/javassist.jar
+
+alias tuprolog='java -jar /home/bpdp/software/2p/bin/2p.jar'

@@ -1,0 +1,4 @@
+SWIPL_HOME=/opt/software/prolog-dev-tools/swipl-dev
+
+export PATH=$PATH:$SWIPL_HOME/bin
+export MANPATH=$MANPATH:$SWIPL_HOME/share/man

@@ -1,0 +1,3 @@
+export ORIENTDB_HOME=/opt/software/orientdb
+
+export PATH=$PATH:$ORIENTDB_HOME/bin

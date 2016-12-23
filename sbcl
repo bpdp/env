@@ -1,0 +1,5 @@
+export SBCL_HOME=/opt/software/sbcl/lib/sbcl
+
+export SBCL_INSTALL_DIR=/opt/software/sbcl
+export PATH=$PATH:$SBCL_INSTALL_DIR/bin
+export MANPATH=$MANPATH:$SBCL_INSTALL_DIR/share/man

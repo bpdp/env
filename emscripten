@@ -1,0 +1,3 @@
+export EMSCRIPTEN="/opt/software/emscripten/emscripten"
+export EMSCRIPTEN_FASTCOMP="/opt/software/emscripten/emscripten-fastcomp"
+export PATH=$PATH:$EMSCRIPTEN

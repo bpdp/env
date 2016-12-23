@@ -1,0 +1,3 @@
+GRAILS_HOME=/opt/software/grails
+
+export PATH=$PATH:$GRAILS_HOME/bin

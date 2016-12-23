@@ -1,0 +1,11 @@
+export ERLANG_TOOLS_HOME=/opt/software/erlang-dev-tools/
+
+export ERLANG_HOME=$ERLANG_TOOLS_HOME/erlang-otp
+export REBAR2_HOME=$ERLANG_TOOLS_HOME/rebar2
+export REBAR3_HOME=$ERLANG_TOOLS_HOME/rebar3
+export ELIXIR_HOME=$ERLANG_TOOLS_HOME/elixir-stable
+export LFE_HOME=$ERLANG_TOOLS_HOME/lfe-stable
+export LFE_ROOTDIR=$ERLANG_TOOLS_HOME/lfe-stable
+
+export PATH=$PATH:$REBAR2_HOME:$REBAR3_HOME:$ELIXIR_HOME/bin:$ERLANG_HOME/bin:$LFE_HOME/bin
+export MANPATH=$MANPATH:$ELIXIR_HOME/man:$ERLANG_HOME/share/man

@@ -1,0 +1,4 @@
+export ARANGO_HOME=/opt/software/arangodb
+
+export PATH=$PATH:$ARANGO_HOME/bin:$ARANGO_HOME/sbin
+export MANPATH=$MANPATH:$ARANGO_HOME/share/man

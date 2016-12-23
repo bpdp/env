@@ -1,0 +1,5 @@
+export ANDROID_HOME=/opt/software/android-dev-tools/android-sdk-linux
+#ANDROID_HOME=$HOME/Android/Sdk
+export ANDROID_STUDIO_HOME=/opt/software/android-dev-tools/android-studio
+
+export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$ANDROID_STUDIO_HOME/bin

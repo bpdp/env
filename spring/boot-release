@@ -1,0 +1,3 @@
+SPRING_BOOT_HOME=/opt/software/spring/boot/release
+
+export PATH=$PATH:$SPRING_BOOT_HOME/bin

@@ -1,0 +1,3 @@
+TA_HOME=/opt/software/textadept
+
+export PATH=$PATH:$TA_HOME

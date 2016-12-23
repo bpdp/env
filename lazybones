@@ -1,0 +1,4 @@
+LZ_HOME=/opt/software/lazybones
+
+export PATH=$PATH:$LZ_HOME/bin
+export CLASSPATH=$CLASSPATH:$LZ_HOME/lib/*.jar

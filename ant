@@ -1,0 +1,3 @@
+ANT_HOME=/opt/software/ant
+
+export PATH=$PATH:$ANT_HOME/bin

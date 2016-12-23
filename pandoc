@@ -1,0 +1,4 @@
+export PANDOC_HOME=/opt/software/pandoc
+
+export PATH=$PATH:$PANDOC_HOME/bin
+export MANPATH=$MANPATH:$PANDOC_HOME/share/man

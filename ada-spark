@@ -1,0 +1,1 @@
+export PATH=/opt/software/ada-dev-tools/spark2016/bin:$PATH

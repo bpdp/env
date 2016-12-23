@@ -1,0 +1,1 @@
+export PATH=$PATH:/opt/software/nim-dev-tools/nim-stable/bin

@@ -1,0 +1,8 @@
+export RUST_HOME=/opt/software/rust-dev-tools
+
+export PATH=$PATH:$RUST_HOME/rust-stable/bin:$HOME/.cargo/bin
+export MANPATH=$MANPATH:$RUST_HOME/rust-stable/share/man
+
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$RUST_HOME/rust-stable/lib
+
+export RUST_SRC_PATH=/home/bpdp/master/rust/stable/1.13/rustc-1.13.0/src

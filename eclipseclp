@@ -1,0 +1,4 @@
+ECLIPSECLP_HOME=$HOME/software/prolog/eclipseclp
+
+export PATH=$PATH:$ECLIPSECLP_HOME/bin/i386_linux
+export MANPATH=$MANPATH:$ECLIPSECLP_HOME/man

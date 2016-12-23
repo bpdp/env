@@ -1,0 +1,3 @@
+VSCODE_HOME=/opt/software/vscode
+
+export PATH=$PATH:$VSCODE_HOME

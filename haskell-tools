@@ -1,0 +1,2 @@
+#export PATH=$PATH:/opt/software/haskell/stack:/opt/software/haskell/haskell-platform/ghc/bin
+export PATH=$PATH:/opt/software/haskell/stack

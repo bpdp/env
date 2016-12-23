@@ -1,0 +1,3 @@
+CRYSTAL_HOME=/opt/software/crystal-dev-tools
+
+export PATH=$PATH:$CRYSTAL_HOME/crystal/bin:$CRYSTAL_HOME/3rd-party-tools

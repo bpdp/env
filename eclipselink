@@ -1,0 +1,3 @@
+ECLIPSELINK_HOME=$HOME/software/eclipselink
+
+export PATH=$PATH:$ECLIPSELINK_HOME/bin

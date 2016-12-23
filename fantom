@@ -1,0 +1,2 @@
+export FAN_HOME=$HOME/software/fantom
+export PATH=$PATH:$FAN_HOME/bin

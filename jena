@@ -1,0 +1,3 @@
+export JENAROOT=$HOME/software/jena
+
+export PATH=$PATH:$JENAROOT/bin

@@ -1,0 +1,4 @@
+NODEJS_HOME=/opt/software/nodejs-dev-tools/nodejs4
+
+export PATH=$HOME/bin:$PATH:$NODEJS_HOME/bin
+export MANPATH=$MANPATH:$NODEJS_HOME/man

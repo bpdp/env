@@ -1,0 +1,2 @@
+export JETTY_HOME=$HOME/software/jetty
+export PATH=$PATH:$JETTY_HOME/bin

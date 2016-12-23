@@ -1,0 +1,3 @@
+ACROREAD_HOME=/home/bpdp/software/acroread
+
+export PATH=$PATH:$ACROREAD_HOME/Adobe/Reader9/bin/

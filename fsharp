@@ -1,0 +1,3 @@
+FSHARP_HOME=/opt/software/fsharp-dev-tools/fsharp-4.0.1.1
+
+export PATH=$PATH:$FSHARP_HOME/bin

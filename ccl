@@ -1,0 +1,3 @@
+export CCL_HOME=/opt/software/ccl
+
+export PATH=$PATH:$CCL_HOME

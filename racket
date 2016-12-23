@@ -1,0 +1,4 @@
+RACKET_HOME=/opt/software/scheme-dev-tools/racket
+
+export PATH=$PATH:$RACKET_HOME/bin
+export MANPATH=$MANPATH:$RACKET_HOME

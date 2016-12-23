@@ -1,0 +1,3 @@
+OPENRESTY_HOME=$HOME/software/openresty/nginx
+
+export PATH=$PATH:$OPENRESTY_HOME/sbin
