@@ -1,3 +1,0 @@
-export PATH=$PATH:/opt/software/swift-dev-tools/swift-dev/bin
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$HOME/lib/swift
-export MANPATH=$MANPATH:/opt/software/swift-dev-tools/swift-dev/share/man/
